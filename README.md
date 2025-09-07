@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://github.com/tharustack/Modern-Authentication-Page/raw/refs/heads/main/public/download%20(3).png" alt="Project Screenshot" width="80%">
 </p>
-<br>
 <div align="center">
   <h2> Modern Authentication Page</h2>
   <p align="center">
