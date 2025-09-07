@@ -1,16 +1,18 @@
-## Modern Authentication Page
+<p align="center">
+  <img src="[your-product-screenshot-url]" alt="Project Screenshot" width="80%">
+</p>
+<br>
 <div align="center">
+  <h2> Modern Authentication Page</h2>
   <p align="center">
     A sleek, modern 3D interactive login and signup interface with smooth animations, responsive design, and engaging micro-interactions, ready to integrate into any website.
   </p>
+  <a href="[your-live-preview-url]" target="_blank">
+  <img src="https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=vercel" alt="Live Demo">
+  </a>
 </div>
 
 <br>
-
-<p align="center">
-  ![Preview](https://i.ibb.co/v6z2yvts/download-3.png)
-</p>
-
 ---
 
 ## ✨ Features
